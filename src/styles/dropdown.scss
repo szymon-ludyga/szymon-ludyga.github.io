@@ -1,0 +1,35 @@
+.dropdown {
+  visibility: hidden;
+
+  @keyframes dropdown {
+    from   { visibility: hidden; }
+    to   { visibility: visible; }
+  }
+
+  @-webkit-keyframes dropdown {
+    from   { visibility: hidden; }
+    to   { visibility: visible; }
+  }
+  @-moz-keyframes dropdown {
+    from   { visibility: hidden; }
+    to   { visibility: visible; }
+  }
+  @-o-keyframes dropdown {
+    from   { visibility: hidden; }
+    to   { visibility: visible; }
+  }
+
+  animation: dropdown 0.05s 0.05s forwards;
+  -moz-animation: dropdown 0.05s 0.05s forwards;
+  -webkit-animation: dropdown 0.05s 0.05s forwards;
+  -o-animation: dropdown 0.05s 0.05s forwards;
+
+  @for $i from 1 through 5 {
+    &:nth-child(#{$i}) {
+      animation-delay: #{$i * .05}s;
+      -moz-animation-delay: #{$i * .05}s;
+      -webkit-animation-delay: #{$i * .05}s;
+      -o-animation-delay: #{$i * .05}s;
+    }
+  }
+}

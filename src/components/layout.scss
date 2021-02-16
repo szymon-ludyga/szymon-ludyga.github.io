@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Basier Square Mono';
+  src: url('../fonts/BasierSquareMono-Regular.woff2') format('woff2'),
+       url('../fonts/BasierSquareMono-Regular.woff') format('woff');
+  font-display: swap;
+  font-weight: normal;
+  font-style: normal;
+}
+
+html {
+  font-family: 'Basier Square Mono', sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  width: 100%;
+  overflow: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #191717;
+}
