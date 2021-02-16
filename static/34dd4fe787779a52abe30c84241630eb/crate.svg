@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="246" height="246" viewBox="0 0 246 246">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_121" data-name="Ellipse 121" cx="123" cy="123" r="123" transform="translate(-786 2656)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="267.057" height="276.895" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="280.014" height="280.254" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(786 -2656)" clip-path="url(#clip-path)">
+    <g id="Group_8" data-name="Group 8" transform="translate(-803.276 2636.804)">
+      <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(13.797 0)" opacity="0.567" clip-path="url(#clip-path-2)">
+        <g transform="translate(-141.75 -2605)">
+          <line id="Line_2" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+        <g transform="translate(-110.75 -2605)">
+          <line id="Line_2-2" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+        <g transform="translate(-79.75 -2605)">
+          <line id="Line_2-3" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+        <g transform="translate(-48.75 -2605)">
+          <line id="Line_2-4" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+        <g transform="translate(-17.75 -2605)">
+          <line id="Line_2-5" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+        <g transform="translate(13.25 -2605)">
+          <line id="Line_2-6" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+        <g transform="translate(44.25 -2605)">
+          <line id="Line_2-7" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+        <g transform="translate(75.25 -2605)">
+          <line id="Line_2-8" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+        <g transform="translate(106.25 -2605)">
+          <line id="Line_2-9" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+      </g>
+      <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(280.254 4.199) rotate(90)" opacity="0.567" clip-path="url(#clip-path-3)">
+        <g transform="translate(-141.75 -2605)">
+          <line id="Line_2-10" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+        <g transform="translate(-110.75 -2605)">
+          <line id="Line_2-11" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+        <g transform="translate(-79.75 -2605)">
+          <line id="Line_2-12" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+        <g transform="translate(-48.75 -2605)">
+          <line id="Line_2-13" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+        <g transform="translate(-17.75 -2605)">
+          <line id="Line_2-14" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+        <g transform="translate(13.25 -2605)">
+          <line id="Line_2-15" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+        <g transform="translate(44.25 -2605)">
+          <line id="Line_2-16" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+        <g transform="translate(75.25 -2605)">
+          <line id="Line_2-17" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+        <g transform="translate(106.25 -2605)">
+          <line id="Line_2-18" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+        <g transform="translate(137.25 -2605)">
+          <line id="Line_2-19" data-name="Line 2" y2="577" transform="translate(142 2605)" fill="none" stroke="#fff" stroke-width="0.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
